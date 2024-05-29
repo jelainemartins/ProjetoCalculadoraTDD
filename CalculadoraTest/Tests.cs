@@ -9,7 +9,6 @@ namespace CalculadoraTest
         public Tests()
         {
             _calculadora = new Calculadora(DateTime.Now);
-            return;
         }
 
         [Theory]
